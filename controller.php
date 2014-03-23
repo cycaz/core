@@ -1,5 +1,5 @@
 <?php
-class TMC_Controller extends TMC_Object {
+class cycaz_controller extends cycaz_object {
     protected $_filter = array();
     protected $_siteTemplate = '';
     
